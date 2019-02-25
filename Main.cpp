@@ -1,4 +1,4 @@
-#include <Angel_commons/Angel.h>
+#include <Angel_commons/Angel.h> //You can use GLFW3 and GLAD
 #include <iostream>
 #include <fstream>
 #include <string>
